@@ -9,10 +9,13 @@ Takes input from the command line which is a single sequence of month lengths (a
   
 For instance if you submitted a java program called App in a package called calendar
 then the following input:
-> java calendar.App 5 5 10
+java calendar.App 5 5 10
+
 would produce the output:
 7: 2 2
+
 13: 3 3
+
 17: 3 7
 
 
